@@ -2,7 +2,7 @@
 
 I'm Jacob. I like writing code, and want to write more of it 👨‍💻
 
-My background is in maths, and I've worked with the UK Government as a data scientist/statistician for 4+ years, but I'm now looking to gently pivot into a more software-focused role. If you're recruiting for an R expert itching to get into other tech, please get in touch!
+My background is in maths, and I've worked with the UK Government as a data scientist/statistician for 4+ years, but I'm now looking to gently pivot into a more software-focused role. If you're recruiting for an R expert with a knack for training and an itch to get into other tech, please get in touch!
 
 #### Some links:
 
