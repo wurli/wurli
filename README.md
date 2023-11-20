@@ -6,7 +6,7 @@ My background is in maths, and I've worked with the UK Government as a data scie
 
 #### Some links:
 
-- LinkedIn: <https://www.linkedin.com/feed/>
+- LinkedIn: <https://www.linkedin.com/in/jscott2718>
 
 - Twitter: <https://twitter.com/_wurli>
 
