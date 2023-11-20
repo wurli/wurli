@@ -22,6 +22,6 @@ My background is in maths, and I've worked with the UK Government as a data scie
 
 - [r-best-practice](https://github.com/wurli/r-best-practice) - a one-page primer document addressing the most common issues I see in code at work
 
-- [pivotr](https://github.com/wurli/pivotr) - an implementation of Excel's pivot tables in R. This was made to help colleagues get familiar with dplyr's pivoting syntax, and to show off my skills with shiny.
+- [pivotr](https://github.com/wurli/pivotr) - an implementation of Excel's pivot tables in R. This was made to help colleagues get familiar with R/Tidyverse pivoting syntax, and to show off my skills with shiny.
 
 - [advent-of-code](https://github.com/wurli/advent-of-code) - for now this is where you can go if you want to see my efforts in other languages (like Rust)
