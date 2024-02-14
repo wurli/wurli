@@ -6,6 +6,8 @@ My background is in maths, and I've worked with the UK Government as a data scie
 
 #### Some of my stuff:
 
+- [updateme](https://github.com/wurli/updateme) - An R package which modifies `library()` to notify you about outdated packages when you load them
+
 - [tidyverse-dev-bot](https://github.com/wurli/tidyverse-dev-bot) - a twitter bot tweeting updates to Tidyverse R packages using GitHub actions
 
 - [ggborderline](https://github.com/wurli/ggborderline) - a ggplot2 extension for making slightly nicer line plots (made for use in my job)
