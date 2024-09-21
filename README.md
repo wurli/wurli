@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I'm Jacob, R and functional programming enthusiast by night, Data Scientist/engineer by day. Here's some of my stuff:
+I'm Jacob, R/functional programming enthusiast by night, data scientist/engineer by day. Here's some of my stuff:
 
 - [updateme](https://github.com/wurli/updateme) - An R package which modifies `library()` to notify you about outdated packages when you load them
 
