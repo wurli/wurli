@@ -1,10 +1,6 @@
 ### Hi 👋 
 
-I'm Jacob. I like writing code, and want to write more of it 👨‍💻
-
-My background is in maths, and I've worked with the UK Government as a data scientist/operational researcher for 4+ years, but I'm now looking to pivot into a more software-focused role. If you're recruiting for an R expert with a knack for training and an itch to get into other tech, please get in touch!
-
-#### Some of my stuff:
+I'm Jacob, R and functional programming enthusiast by night, Data Scientist/engineer by day. Here's some of my stuff:
 
 - [updateme](https://github.com/wurli/updateme) - An R package which modifies `library()` to notify you about outdated packages when you load them
 
@@ -19,3 +15,5 @@ My background is in maths, and I've worked with the UK Government as a data scie
 - [pivotr](https://github.com/wurli/pivotr) - an implementation of Excel's pivot tables in R. This was made to help colleagues get familiar with R/Tidyverse pivoting syntax, and to show off my skills with shiny.
 
 - [advent-of-code](https://github.com/wurli/advent-of-code) - for now this is where you can go if you want to see my efforts in other languages (like Rust)
+
+For humans only: `jscott2718<at>gmail<dot>com`
