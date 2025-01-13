@@ -16,4 +16,12 @@ I'm Jacob, R/functional programming enthusiast by night, data scientist/engineer
 
 - [advent-of-code](https://github.com/wurli/advent-of-code) - for now this is where you can go if you want to see my efforts in other languages (like Rust)
 
+I'm also the author of a few Neovim plugins. I made these for my own use, but if anyone else gets any mileage from them that makes me happy!
+
+- [cobalt.nvim](https://github.com/wurli/cobalt.nvim) - A port of the classic blue theme from TextMate
+
+- [visimatch.nvim](https://github.com/wurli/visimatch.nvim) - A small plugin to highlight matches for the current visual selection
+
+- [split.nvim](https://github.com/wurli/split.nvim) - A plugin to split lines by delimiter, i.e. an inverse of the native `J` command
+
 For humans only: `jscott2718<at>gmail<dot>com`
