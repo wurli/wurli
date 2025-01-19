@@ -24,4 +24,6 @@ I'm also the author of a few Neovim plugins. I made these for my own use, but if
 
 - [split.nvim](https://github.com/wurli/split.nvim) - A plugin to split lines by delimiter, i.e. an inverse of the native `J` command
 
+- [contextindent.nvim](https://github.com/wurli/contextindent.nvim) A (very) tiny plugin adding context-aware indent to files with embedded languages 🌟
+
 For humans only: `jscott2718<at>gmail<dot>com`
