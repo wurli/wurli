@@ -12,7 +12,7 @@ I'm Jacob, R/functional programming enthusiast by night, data scientist/engineer
 
 - [pivotr](https://github.com/wurli/pivotr) - an implementation of Excel's pivot tables in R. This was made to help colleagues get familiar with R/Tidyverse pivoting syntax, and to show off my skills with shiny.
 
-I'm also the author of a few Neovim plugins. I made these for my own use, but if anyone else gets any mileage from them that makes me happy!
+I'm also the author of a few Neovim plugins. I maintain these for my own use, but I'm very happy if anyone else gets some mileage from them:
 
 - [cobalt.nvim](https://github.com/wurli/cobalt.nvim) - A port of the classic blue theme from TextMate
 
